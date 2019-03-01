@@ -52,3 +52,4 @@
         char charArray[]={'A','B'};
         char* text="输入文本";//指针形式
 
+[项目仓储](https://github.com/longyuan02/C-exercise.git)
