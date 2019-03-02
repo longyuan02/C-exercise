@@ -17,11 +17,11 @@
     double        8
     boolean       1
     long          8
-###### C++
+###### C
     char int float double long short signed unsigned void 
-    C语言没有 byte 和boolean 
+    *C语言*没有 byte 和boolean 
 
-###总结
+### 总结
 1. Java 中char类型的长度为2个字节,C语言中的长度为1个字节
 2. Java中long类型的长度为8个字节,C语言中的场地为4个字节
 >C99标注规定:long类型的规定,不小于整型
